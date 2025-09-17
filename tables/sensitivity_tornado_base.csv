@@ -1,0 +1,9 @@
+Driver,Base IRR_%,IRR_%
+Exit Multiple +1.0x,23.7,28.6
+Exit Multiple -1.0x,23.7,18.1
+Margin Uplift +100 bps,23.7,25.7
+Margin Uplift -100 bps,23.7,21.5
+Rates +200 bps,23.7,22.5
+Rates -200 bps,23.7,24.7
+Capex +10%,23.7,23.3
+Capex -10%,23.7,24.0

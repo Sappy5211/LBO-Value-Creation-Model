@@ -1,0 +1,4 @@
+Scenario,EV_Entry_m,TL_m,Equity_m,IRR_%,MOIC_x
+Base,43.3,25.1,18.8,23.7,2.34
+Management,43.3,25.1,18.8,31.2,2.96
+Downside,43.3,25.1,18.8,15.0,1.75
