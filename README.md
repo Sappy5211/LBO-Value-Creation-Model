@@ -1,6 +1,6 @@
 # LBO-Value-Creation-Model
 
-## AquaServe UK — Final-Pass Partner/MD Investment Memo
+## AquaServe UK — Investment Memo
 
 What this is. A thesis-first, Partner-level LBO for a UK water services platform. It shows how practical operational moves translate into cash, covenant headroom, and equity returns — and tells a commercial story an Investment Committee can buy.
 
